@@ -1,4 +1,4 @@
 go-fun
 ======
 
-Functionality tests written in GoLang
+Experimentations with GoLang
